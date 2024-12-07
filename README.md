@@ -1,14 +1,11 @@
-# Nerfies
-
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{wang2024exploring,
+         title={Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics},
+         author={Taowen Wang and Dongfang Liu and James Chenhao Liang and Wenhao Yang and Qifan Wang and Cheng Han and Jiebo Luo and Ruixiang Tang},
+         journal = {arXiv preprint arXiv:2411.13587},
+         year={2024}
 }
 ```
 
