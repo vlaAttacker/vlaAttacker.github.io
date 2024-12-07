@@ -1,5 +1,5 @@
 
-If you find Nerfies useful for your work please cite:
+If you find our work useful, please cite:
 ```
 @article{wang2024exploring,
          title={Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics},
